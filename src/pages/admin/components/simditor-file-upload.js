@@ -31,6 +31,9 @@ UploadFile = (function (_super) {
     'en-US': {
       uploadfile: 'upload file'
     }
+    'ko-KO': {
+      uploadfile: '파일 업로드'
+    }
   };
 
   UploadFile.prototype.name = 'uploadfile';
