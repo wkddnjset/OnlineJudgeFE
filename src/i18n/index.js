@@ -7,6 +7,7 @@ const languages = [
   {value: 'en-US', label: 'English'},
   {value: 'zh-CN', label: '简体中文'},
   {value: 'zh-TW', label: '繁體中文'}
+  {value: 'ko-KR', label: '한국어'}
 ]
 const messages = {}
 
@@ -19,7 +20,7 @@ for (let lang of languages) {
 }
 // load language packages
 export default new VueI18n({
-  locale: 'en-US',
+  locale: 'ko-KR',
   messages: messages
 })
 
