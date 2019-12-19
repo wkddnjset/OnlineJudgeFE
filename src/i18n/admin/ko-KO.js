@@ -56,7 +56,7 @@ export const m = {
   Judger_Version: '채점 시스템 버전',
   Service_URL: '서비스 URL',
   Last_Heartbeat: '최근 Heartbeat',
-  Create_Time: '시간 생성하기',,
+  Create_Time: '시간 생성하기',
   // PruneTestCase
   Test_Case_Prune_Test_Case: '테스트 케이스 가지치기',
   // Problem.vue
