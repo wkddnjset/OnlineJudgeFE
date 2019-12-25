@@ -24,7 +24,7 @@ export const m = {
   Wrong_Answer: '오답입니다.',
   Statistic: '통계',
   Close: '닫기',
-  View_Contest: '대회 보기',
+  View_Contest: 'S.S.P 보기',
   Are_you_sure_you_want_to_reset_your_code: 'Are you sure you want to reset your code?',
   Code_can_not_be_empty: 'Code can not be empty',
   Submit_code_successfully: 'Submit code successfully',
@@ -145,8 +145,8 @@ export const m = {
   Latex_Editor: 'Latex Editor',
   // NavBar.vue
   Home: '홈',
-  NavProblems: '문제',
-  Contests: '대회',
+  NavProblems: 'E.S.P',
+  Contests: 'S.S.P',
   NavStatus: '상태',
   Rank: '랭킹',
   ACM_Rank: 'ACM 랭킹',
@@ -256,6 +256,6 @@ export const m = {
   UserHomeSolved: '해결',
   UserHomeserSubmissions: '제출',
   UserHomeScore: '점수',
-  List_Solved_Problems: '푼 문제들',
-  UserHomeIntro: '아직 어떠한 문제도 풀지 않았습니다.'
+  List_Solved_Problems: '푼 E.S.P들',
+  UserHomeIntro: '아직 어떠한 E.S.P도 풀지 않았습니다.'
 }
